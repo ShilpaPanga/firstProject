@@ -7,5 +7,6 @@ public class SwitchDemo {
         Scanner sc = new Scanner(System.in);
         System.out.println("new feature");
         System.out.println("second feature");
+        System.out.println("third feature");
     }
 }
