@@ -9,6 +9,7 @@ public class Loops {
         for (int i = 0; i < 15; i++) {
             if(i%3==0)
             System.out.println(i);
+            System.out.println("new feature");
         }
     }
 }
