@@ -14,6 +14,8 @@ public class Calculator {
         double division = divide(49, 22);
         System.out.println("division: "+division);
 
+        System.out.println("jenkins created");
+
     }
 
     public static int add(int a , int b){
@@ -31,4 +33,5 @@ public class Calculator {
     public static int divide(int e , int f){
         return  (e / f);
     }
+
 }
